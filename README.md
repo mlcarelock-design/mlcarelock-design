@@ -1,4 +1,4 @@
-# Marcie Carelock
+# mlcarelock-design
 
 Journalist, researcher, and artist in North Little Rock, Arkansas.
 
